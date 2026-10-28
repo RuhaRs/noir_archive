@@ -4,3 +4,4 @@
 **/.prisma/
 *.log
 .DS_Store
+.env.*
